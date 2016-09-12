@@ -1,0 +1,11 @@
+html{
+    height: 100%;
+}
+body {
+    background: url("img/earth%20to%20moon%20copy.jpg");
+    position: relative;
+    background-size: cover;
+    vh: 100%;
+    background-position: 0;
+}
+
